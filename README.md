@@ -1,0 +1,2 @@
+# Pendu
+c'est un jeu en console qui consiste a faire des propositions de lettre afin de déterminer un mot caché, le programme indique au joueur le nombre de lettre du mot, et le joueur dispose  de 10 coups pour trouver le mot. S'il trouve une lettre du mot, le nombre de coups restant reste inchangé s'il rate ce nombre diminue d'un. Il devra donc trouver le mot en fessant le moins d'erreurs possible
